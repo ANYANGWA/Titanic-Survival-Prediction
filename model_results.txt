@@ -1,0 +1,12 @@
+Logistic Regression Accuracy: 0.8100558659217877
+Random Forest Accuracy: 0.8268156424581006
+
+Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.89      0.86       105
+           1       0.82      0.74      0.78        74
+
+    accuracy                           0.83       179
+   macro avg       0.83      0.81      0.82       179
+weighted avg       0.83      0.83      0.83       179
