@@ -50,7 +50,7 @@ The best model achieved:
 
 ## 📌 Author  
 👤 **Anyangwa Emmanuel Atwana**  
-- [LinkedIn](https://www.linkedin.com/in/anyangwa-emmanuel-45a6541a6)  
+- [LinkedIn]([https://www.linkedin.com/in/anyangwa-emmanuel-45a6541a6](https://www.linkedin.com/in/anyangwa-emmanuel-45a6541a6/))  
 - [GitHub](https://github.com/ANYANGWA)  
 
 ---
